@@ -4,17 +4,6 @@
 
 This project aims to enhance the responsiveness of a web application, ensuring it adapts seamlessly to different screen sizes for an improved user experience.
 
-## Project Details
-
-- Start Date: October 9, 2023, 12:00 AM
-- End Date: October 14, 2023, 11:59 PM
-- Weight: 1
-
-## Project Leader
-
-- David Dias
-- Senior Software Engineer at HomeX
-
 ## Learning Objectives
 
 By the end of this project, participants are expected to:
